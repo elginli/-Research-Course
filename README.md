@@ -11,4 +11,10 @@ Task two is a faster CPU version using import threading and numpy.
 
 Task three is the fastest and the GPU version using cupy.
 
+The other tasks starting with elgin- are tasks to follow the faiss tutorial.
 
+Flat is the most exhaustive search through the vector for the most similar items.
+
+IVFFLat is a less exhaustive search but searches the closest centroids to give a faster but still accurate search. nprobe decides how many closest centroids to search for.
+
+IVFPQ is product quantization which the even less of an exhaustive search and is a little less accurate of a search. 
