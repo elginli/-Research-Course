@@ -12,8 +12,10 @@ Tasks one to three are CPU and GPU functions that take two 3d matrices and we ar
 -Task three is the fastest and the GPU version using cupy.
 
 The other tasks starting with elgin- are tasks following the faiss tutorial.
-Credit to facebookresearch on GitHub and James Briggs on Youtube:
+
+Credit to facebookresearch on GitHub: 
 https://github.com/facebookresearch/faiss/wiki/Getting-started
+and James Briggs on Youtube:
 https://www.youtube.com/watch?v=sKyvsdEv6rk&list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc&index=4
 
 -Flat is the most exhaustive search through the vector for the most similar items.
